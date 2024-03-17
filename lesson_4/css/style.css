@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url("fonts.css");
+@import url("reset.css");
+
+.big-title {
+    font-family: "Proxima Nova Lt", sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    color:#2b2929;
+    text-align: left;
+    font-style: normal;
+    line-height: 1.2;
+}
+.main{
+    font-family:"Proxima Nova Rg" , sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #2b2929;
+    text-align: left;
+    font-style: normal;
+    line-height: 1.875;
+}
+.title1{
+    font-family:"Proxima Nova Lt", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: #2b2929;
+    text-align: left;
+    font-style: normal;
+    line-height: 1.4;
+}
+.title2{
+    font-family:"Proxima Nova Lt",sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+    color: #2b2929;
+    font-style: normal;
+    line-height: 1.20; /* 48/40 */
+}
+.trainingtext{
+    font-family: "Quicksand", sans-serif;
+    font-size: 20px;
+    font-weight:400;
+    color: rgb(12, 10, 10);
+    text-align: left;
+    font-style: normal;
+}
+.test-title{
+    font-family: "Quicksand", sans-serif;
+    font-size:40px;
+    text-shadow: -5px -5px 17px red;
+    font-weight: 600;
+    text-align: center;
+}
+.test-article{
+    text-decoration: underline;
+}
+.test-title1{
+    font-family: "Quicksand", sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: line-through;
+    color: rgba(139, 0, 0, 0.514);
+    text-transform: capitalize;
+}
+.test-article1{
+    text-align: right;
+    text-decoration: underline double red;
+}
+.test-article2{
+    text-align: center;
+    text-decoration: line-through;
+    text-transform: capitalize;
+    letter-spacing: 20px;
+}
+.test-title2{
+    font-weight: 500;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+.test-article3{
+    text-decoration: line-through double blue;
+}
+.footer{
+    font-family: "Quicksand", serif;
+    font-size: 40px;
+    text-align: center;
+    color: red;
+}    
+
+
